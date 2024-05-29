@@ -15,12 +15,12 @@ I'm a passionate Data Analyst with experience in extracting insights from data a
 - **Databases:** MySQL, BigQuery
 - **Tools:** R Markdown, Excel, Jupyter Notebooks
 
-  ## 📫 Contact
+## 📫 Contact
 
 - **Email:** eridleyzecos@gmail.com
 - **LinkedIn:** www.linkedin.com/in/emilyridleyzecos
 
-  ## 🎓 Education
+## 🎓 Education
 
 - **Degree:** Bachelor of Arts & Science
 - **Institution:** University of San Diego
